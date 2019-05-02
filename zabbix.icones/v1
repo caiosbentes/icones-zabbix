@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zabbix_export version="1.0" date="02.05.19" time="21.03">
+  <images>
+    <image>
+      <name>*</name>
+      <imagetype>1</imagetype>
+      <encodedImage></encodedImage>
+    </image>
+  </images>
+  <sysmaps>
+  </sysmaps>
+</zabbix_export>
